@@ -9,17 +9,16 @@
 
 ```javascript
 
-while(life) {
-eat();
-sleep();
-code();
-repeat();
-if(!dead) {
-continue;
-}
-else if(dead) {
-break;
-}
+while (life) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    if (!dead) {
+        continue;
+    } else if (dead) {
+        break;
+    }
 }
 
 ```
