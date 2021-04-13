@@ -7,6 +7,11 @@
 <br>
 **Lead Developer, Software Artisans**
 
+```javascript
+
+console.log("Programming is my passion.")
+
+```
 ### Expert in - 
 👉 NodeJS
 <br>
