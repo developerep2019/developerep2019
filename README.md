@@ -18,6 +18,10 @@
 <br>
 👉 MondoDB
 <br>
+👉 Mongoose
+<br>
+👉 Sequelize
+<br>
 👉 MVC
 <br>
 👉 AXIOS
