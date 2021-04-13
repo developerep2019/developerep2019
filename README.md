@@ -9,7 +9,18 @@
 
 ```javascript
 
-console.log("Programming is my passion.")
+while(life) {
+eat();
+sleep();
+code();
+repeat();
+if(!dead) {
+continue;
+}
+else if(dead) {
+break;
+}
+}
 
 ```
 ### Expert in - 
