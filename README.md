@@ -11,25 +11,41 @@
 👉 NodeJS
 <br>
 👉 ExpressJS
-👉 AXIOS
-👉 ReactJS
-👉 JavaScript
-👉 ES6
+<br>
 👉 MySQL
+<br>
 👉 MariaDB
+<br>
 👉 MondoDB
+<br>
 👉 MVC
+<br>
+👉 AXIOS
+<br>
+👉 JavaScript
+<br>
+👉 ES6
+<br>
+👉 ReactJS
+<br>
 👉 Bootstrap
+<br>
 👉 Material-UI
+<br>
 👉 HTML5
+<br>
 👉 CSS3
+<br>
 👉 SASS
+<br>
 👉 Unit Testing
+<br>
 👉 Networking Basics 
+<br>
 👉 Wordpress
+<br>
 👉 WooCommerce
-👉 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=developerep2019.developerep2019)
+<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerep2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
