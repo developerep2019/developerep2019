@@ -36,6 +36,8 @@ while (life) {
 <br>
 👉 Sequelize
 <br>
+👉 Firebase
+<br>
 👉 MVC
 <br>
 👉 AXIOS
