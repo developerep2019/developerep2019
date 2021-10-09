@@ -4,7 +4,7 @@
 <br>
 **Full Stack Web Developer, And Just a Programmer**
 <br>
-**Lead Developer, Software Artisans**
+**Fresher**
 
 ```javascript
 
